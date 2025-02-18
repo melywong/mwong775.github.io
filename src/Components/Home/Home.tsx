@@ -96,7 +96,7 @@ export class Home extends React.Component {
           <div className="row">
             <div className="about-wrapper">
               <h2 className="gradient-font">About Me</h2>
-              <p>Hi! I'm Melanie, and I'm a Software Engineer at Microsoft.</p>
+              <p>Hi! I'm Melanie, and I'm a Software Engineer at Amazon.</p>
               <br />
               <Link to="/about">
                 <Button variant="outlined" size="large">Learn More</Button>

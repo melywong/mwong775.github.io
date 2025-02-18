@@ -5,7 +5,7 @@ Source code available on the `development` branch (this one)
 
 Deployment files exist on the `master` branch
 
-Recent updates:
+Most but not-so-recent updates:
 * Mini project: mapped instant ramen products by countries
 * Added Timelines under 'About' tab
 * Created aesthetic feature cards for 'Projects' and 'Experience'
